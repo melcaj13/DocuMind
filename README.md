@@ -6,7 +6,11 @@ DocuMind, kullanıcıların PDF dokümanlarıyla sohbet etmesine olanak tanıyan
 
 
 
-https://github.com/user-attachments/assets/e2043506-6ee0-4594-8f94-f6fa06a907f9
+
+
+https://github.com/user-attachments/assets/0a6a99f5-683c-4764-8858-4f279de969bf
+
+
 
 
 
